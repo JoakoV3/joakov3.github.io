@@ -1,27 +1,22 @@
 {
   "files": {
     "main.css": "./static/css/main.a4eb7d16.chunk.css",
-    "main.js": "./static/js/main.db2160f7.chunk.js",
-    "main.js.map": "./static/js/main.db2160f7.chunk.js.map",
+    "main.js": "./static/js/main.e58d0f07.chunk.js",
+    "main.js.map": "./static/js/main.e58d0f07.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.916853f0.js",
     "runtime-main.js.map": "./static/js/runtime-main.916853f0.js.map",
     "static/css/2.37b96200.chunk.css": "./static/css/2.37b96200.chunk.css",
-    "static/js/2.055d3992.chunk.js": "./static/js/2.055d3992.chunk.js",
-    "static/js/2.055d3992.chunk.js.map": "./static/js/2.055d3992.chunk.js.map",
+    "static/js/2.25c5885b.chunk.js": "./static/js/2.25c5885b.chunk.js",
+    "static/js/2.25c5885b.chunk.js.map": "./static/js/2.25c5885b.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.612ba1dc3e5dd282752a0d6ecd31f6fa.js": "./precache-manifest.612ba1dc3e5dd282752a0d6ecd31f6fa.js",
+    "precache-manifest.ae67b222fa11e51097e11c4c43ad701d.js": "./precache-manifest.ae67b222fa11e51097e11c4c43ad701d.js",
     "service-worker.js": "./service-worker.js",
     "static/css/2.37b96200.chunk.css.map": "./static/css/2.37b96200.chunk.css.map",
     "static/css/main.a4eb7d16.chunk.css.map": "./static/css/main.a4eb7d16.chunk.css.map",
-    "static/js/2.055d3992.chunk.js.LICENSE.txt": "./static/js/2.055d3992.chunk.js.LICENSE.txt",
-    "static/media/Imagen3.png": "./static/media/Imagen3.2260eb1a.png",
-    "static/media/Imagen5.png": "./static/media/Imagen5.44388840.png",
-    "static/media/Imagen6.png": "./static/media/Imagen6.9188df2a.png",
-    "static/media/Javascript.png": "./static/media/Javascript.db7933e6.png",
+    "static/js/2.25c5885b.chunk.js.LICENSE.txt": "./static/js/2.25c5885b.chunk.js.LICENSE.txt",
     "static/media/RickMorty.png": "./static/media/RickMorty.1ea234e3.png",
     "static/media/Turnos.png": "./static/media/Turnos.9d574da0.png",
     "static/media/App.css": "./static/media/hero-image.a5b3879f.jpg",
-    "static/media/imagen7.png": "./static/media/imagen7.d3d76541.png",
     "static/media/joako-pic.jpg": "./static/media/joako-pic.967c1cd4.jpg",
     "static/media/memotestPreview.png": "./static/media/memotestPreview.e86e466b.png",
     "static/media/seguridadPreview.png": "./static/media/seguridadPreview.25a7209c.png"
@@ -29,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.916853f0.js",
     "static/css/2.37b96200.chunk.css",
-    "static/js/2.055d3992.chunk.js",
+    "static/js/2.25c5885b.chunk.js",
     "static/css/main.a4eb7d16.chunk.css",
-    "static/js/main.db2160f7.chunk.js"
+    "static/js/main.e58d0f07.chunk.js"
   ]
 }
